@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "New_Landscaping_Zone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "DSC": "New Landscaping Zone" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -71.008855095879994, 42.355839453379581 ], [ -71.006755487437388, 42.355358293111479 ], [ -71.007499098760817, 42.352777524400778 ], [ -71.005137039262877, 42.35220888044757 ], [ -71.005661941373532, 42.34849082383046 ], [ -71.011173413535374, 42.350852883328393 ], [ -71.008855095879994, 42.355839453379581 ] ] ] ] } }
+]
+}

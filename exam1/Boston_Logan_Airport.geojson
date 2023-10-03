@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Boston_Logan_Airport",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3, "DSC": "Boston Logan Airport" }, "geometry": { "type": "Point", "coordinates": [ -71.019886317618969, 42.366530832458245 ] } }
+]
+}
